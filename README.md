@@ -1,5 +1,5 @@
 # The-Magic-Hat
-This Unity game was developed as the final project for my COMP-3770 class and received a Grade of 100%
+This Unity game was developed as the final project for my COMP-3770 class and received a grade of 100%
 
 WASD/Arrow keys to move.
 

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2d7faf88b0667db449c43ddfb1312adb
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/JungleScene.unity
+    guid: e97a410b179b7419f8569d2dd0fa00e5
+  - enabled: 1
+    path: Assets/Scenes/Cave Scene.unity
+    guid: 7a40821cecf16463a86fd8998db1f85f
+  - enabled: 1
+    path: Assets/Scenes/DungeonScene.unity
+    guid: 435acec76c3966b4ab01c890f2e53a62
+  - enabled: 1
+    path: Assets/Scenes/DemoScene.unity
+    guid: 30c6eb001859c4947a8bfb44bf8a3497
+  m_configObjects: {}

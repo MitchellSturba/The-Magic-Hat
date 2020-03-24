@@ -1,14 +1,15 @@
 # The-Magic-Hat
+
+<h2>Overview</h2>
 This Unity game was developed as the final project for my COMP-3770 class and received a grade of 100%.  You play as a wizard named Boshi who wakes up one day to find that his magical hat has been stolen! You set out on a perilous journey to find the culprit and take back your hat. Will it be the slimes of the overworld? or the goblins of the depths? or maybe.... the 'hat stealing' dragon!
 
-WASD/Arrow keys to move.
+<h2>Controls</h2>
+ WASD/Arrow keys to move
+| Space to jump
+| Ctrl to sprint
+| Z shoots a fireball (if you have the potion)
 
-Space to jump
-
-Ctrl to sprint
-
-Z shoots a fireball (if you have the potion)
-
+<h2>Screenshots</h2>
 
 Main Menu
 ![MainMenu](The_Magic_Hat/MainMenu.png)

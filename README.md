@@ -10,7 +10,7 @@ This Unity game was developed as the final project for my COMP-3770 class and re
 | Z shoots a fireball (if you have the potion)
 
 Demo:<br>
-<img src="Demo.gif" width="500px">
+<img src="Demo.gif" width="700px">
 
 <h2>Screenshots</h2>
 

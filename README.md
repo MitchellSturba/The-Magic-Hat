@@ -9,6 +9,9 @@ This Unity game was developed as the final project for my COMP-3770 class and re
 | Ctrl to sprint
 | Z shoots a fireball (if you have the potion)
 
+Demo:<br>
+<img src="Demo.gif" width="500px">
+
 <h2>Screenshots</h2>
 
 The main menu of the game has 5 different screens, the first screen begins the game when the space key is hit, the following three screens are to select one of the three levels, and the last screen keeps track of the game stats. After the user hits the space key, a short cutscene is shown before launching into the first level.

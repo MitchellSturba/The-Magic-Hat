@@ -12,12 +12,6 @@ This Unity game was developed as the final project for my COMP-3770 class and re
 Demo:<br>
 <img src="Demo.gif" width="700px">
 
-
-<h2>Level 3 (Dungeon)</h2>
-The final level of the game takes place in a dungeon and has all of the remaining enemies and powerups available to the player. Moving platforms are also a key element of this level.  Once the player reaches the end, they are presented with their hat and can finally regain their magic powers.
-
-<img src="The_Magic_Hat/Level3.png" width="700px">
-
 <h2>Enemies</h2>
 <h4>Slime</h4><img src="The_Magic_Hat/imgs/Slime.png" width="140px" align="left">
 <p>The slime is the first enemy encountered by the player in the forbidden forests. He wears a fez and jumps up and down. He is easily killed by jumping on it's head and does 1 heart of damage if the player walks into him.</p>
@@ -55,3 +49,8 @@ The game begins in the jungle level, the main character Boshi has awoken to find
 The second level is in a dark cave with a parallax background.  There are a few more enemies introduced to Boshi as well as several new potions and collectables.  The environment is proceduraley generated and the platforms and enemies that spawn are compleley random.
 
 <img src="The_Magic_Hat/Level2.png" width="700px">
+
+<h2>Level 3 (Dungeon)</h2>
+The final level of the game takes place in a dungeon and has all of the remaining enemies and powerups available to the player. Moving platforms are also a key element of this level.  Once the player reaches the end, they are presented with their hat and can finally regain their magic powers.
+
+<img src="The_Magic_Hat/Level3.png" width="700px">
